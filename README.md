@@ -1,1 +1,3 @@
-https://www.youtube.com/watch?v=eFzNekhVhmM&t=458s
+# Linktree
+
+- Simple linktree-type Nextjs app
