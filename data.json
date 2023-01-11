@@ -1,0 +1,25 @@
+{
+    "name": "Gannon Hall",
+    "avatar" : "https://pbs.twimg.com/profile_images/1603091670072819712/EArb-OH4_400x400.jpg",
+    "links": [
+        {
+            "name": "Blog",
+            "href": "https://twitter.com/gannonhall",
+            "image": "https://pbs.twimg.com/profile_images/1603091670072819712/EArb-OH4_400x400.jpg"
+        },
+        {
+            "name": "Astro Labs",
+            "href": "https://twitter.com/gannonhall"
+        }
+    ],
+    "socials": [
+        {
+            "name": "Twitter",
+            "href": "https://twitter.com/gannonhall"
+        },
+        {
+            "name": "GitHub",
+            "href": "https://twitter.com/gannonhall"
+        }
+    ]
+}
